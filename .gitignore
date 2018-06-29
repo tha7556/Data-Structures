@@ -10,3 +10,6 @@ Data Structures/.vs/Data Structures/v15/Browse.VC.opendb
 *.pdb
 *.pch
 *.ipch
+*.o
+*.out
+*.exe
