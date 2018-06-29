@@ -1,0 +1,4 @@
+﻿  Data Structures.cpp
+e:\computerscience\github\data-structures\data structures\data structures\data structures.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\computerscience\github\data-structures\data structures\data structures\data structures.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Data Structures.vcxproj -> E:\ComputerScience\Github\Data-Structures\Data Structures\Debug\Data Structures.exe
